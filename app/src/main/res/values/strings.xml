@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_main">Create Account</string>
+    <string name="labelUser">Email or Phone</string>
+    <string name="labelButton">Log In</string>
+    <string name="labelPassword">Password</string>
+
+</resources>
